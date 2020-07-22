@@ -10,4 +10,4 @@ from pprint import pprint
 #pprint(re.findall(r'reg[a-z]+',str(dir(os))))
 pprint(re.findall(r'get[a-z]+',str(dir(os))))
 
-print("Here is some modification to the previous version")
+print("\n\n\tHere is some modification to the previous version\n")
