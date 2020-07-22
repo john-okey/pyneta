@@ -11,3 +11,5 @@ from pprint import pprint
 pprint(re.findall(r'get[a-z]+',str(dir(os))))
 
 print("\n\n\tHere is some modification to the previous version\n")
+print("\n\n\tHere is some modification to the previous version\n")
+print("\n\n\tHere is some modification to the previous version\n")
